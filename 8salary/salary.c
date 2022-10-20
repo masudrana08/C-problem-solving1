@@ -8,3 +8,4 @@ int main() {
    printf("SALARY = U$ %.2f\n", (float)workHour*rate);
    return 0;
 }
+
